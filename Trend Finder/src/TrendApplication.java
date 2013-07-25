@@ -21,8 +21,8 @@ public class TrendApplication extends JFrame{
 	private JLabel label1;
 	private JLabel label2;
 	private JButton button;
-	private JComboBox<String> combobox1;
-	private JComboBox<Object> combobox2;
+	private JComboBox combobox1;
+	private JComboBox combobox2;
 	private ArrayList<String> Makes = new ArrayList<String>();
 	Scanner s;
 	{
@@ -68,7 +68,7 @@ public class TrendApplication extends JFrame{
 		label1 = new JLabel("Enter a Make");
 		add (label1);
 
-		combobox1 = new JComboBox<String>();
+		combobox1 = new JComboBox();
 		for(int i = 0; i < Makes.size(); i++){
 			combobox1.addItem(Makes.get(i));
 		}
@@ -79,7 +79,7 @@ public class TrendApplication extends JFrame{
 		label2 = new JLabel("Enter a Model");
 
 
-		combobox2 = new JComboBox<Object>();
+		combobox2 = new JComboBox();
 
 
 		button = new JButton("Enter");
