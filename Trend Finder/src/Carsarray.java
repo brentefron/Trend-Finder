@@ -42,7 +42,7 @@ public class Carsarray {
 
 		Scanner s;
 
-		s = new Scanner(new File("/Users/Brent/Desktop/workspace/Make and Model Parcer/data2.txt"));
+		s = new Scanner(new File("/Users/Brent/Desktop/workspace/Trend Finder/ImportantDocs/Make and Model.txt"));
 
 		ArrayList<String[]> cars= new ArrayList<String[]>();
 		while (s.hasNext()){

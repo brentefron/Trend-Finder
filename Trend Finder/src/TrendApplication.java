@@ -27,7 +27,7 @@ public class TrendApplication extends JFrame{
 	Scanner s;
 	{
 		try {
-			s = new Scanner(new File("/Users/Brent/Desktop/workspace/Model Trends/stuffs/Makes.txt"));
+			s = new Scanner(new File("/Users/Brent/Desktop/workspace/Trend Finder/ImportantDocs/Makes.txt"));
 		} catch (FileNotFoundException e) {
 
 			e.printStackTrace();
@@ -44,7 +44,7 @@ public class TrendApplication extends JFrame{
 	Scanner scan;
 	{
 		try {
-			scan = new Scanner(new File("/Users/Brent/Desktop/workspace/Model Trends/stuffs/Models.txt"));
+			scan = new Scanner(new File("/Users/Brent/Desktop/workspace/Trend Finder/ImportantDocs/Models.txt"));
 		} catch (FileNotFoundException e) {
 
 			e.printStackTrace();
@@ -126,7 +126,7 @@ public class TrendApplication extends JFrame{
 				modelInput = (String) (combobox2.getSelectedItem());
 				Htmlpagecreator.htmlPage(TwitterCar.twitter(makeInput, modelInput), makeInput, modelInput);
 				label1.setText("Again?");
-				Desktop.getDesktop().open(new File("/Users/Brent/Desktop/workspace/Model Trends/" + makeInput + ".html"));
+				Desktop.getDesktop().open(new File("/Users/Brent/Desktop/workspace/Trend Finder/trends.html"));
 			}
 			catch (Exception ex)
 			{
