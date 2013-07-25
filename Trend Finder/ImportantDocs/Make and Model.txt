@@ -1,0 +1,387 @@
+Acura#ILX
+Acura#MDX
+Acura#RDX
+Acura#RL
+Acura#RLX
+Acura#TL
+Acura#TSX
+Acura#ZDX
+Aston Martin#DB9
+Aston Martin#DBS
+Aston Martin#Rapide
+Aston Martin#Vanquish
+Aston Martin#Vantage
+Aston Martin#Virage
+Audi#A3
+Audi#A4
+Audi#A5
+Audi#A6
+Audi#A7
+Audi#A8
+Audi#allroad
+Audi#Q5
+Audi#Q7
+Audi#R8
+Audi#RS 5
+Audi#S4
+Audi#S5
+Audi#S6
+Audi#S7
+Audi#S8
+Audi#SQ5
+Audi#TT
+Bentley#Continental
+Bentley#Mulsanne
+BMW#1 Series
+BMW#3 Series
+BMW#4 Series
+BMW#5 Series
+BMW#6 Series
+BMW#7 Series
+BMW#M3
+BMW#M5
+BMW#M6
+BMW#X1
+BMW#X3
+BMW#X5
+BMW#X5 M
+BMW#X6
+BMW#X6 M
+BMW#Z4
+Buick#Enclave
+Buick#Encore
+Buick#LaCrosse
+Buick#Regal
+Buick#Verano
+Cadillac#ATS
+Cadillac#CTS
+Cadillac#Escalade
+Cadillac#Escalade ESV
+Cadillac#Escalade EXT
+Cadillac#SRX
+Cadillac#XTS
+Chevrolet#Avalanche
+Chevrolet#Camaro
+Chevrolet#Colorado Crew Cab
+Chevrolet#Colorado Extended Cab
+Chevrolet#Colorado Regular Cab
+Chevrolet#Corvette
+Chevrolet#Cruze
+Chevrolet#Equinox
+Chevrolet#Express 1500 Cargo
+Chevrolet#Express 1500 Passenger
+Chevrolet#Express 2500 Cargo
+Chevrolet#Express 2500 Passenger
+Chevrolet#Express 3500 Cargo
+Chevrolet#Express 3500 Passenger
+Chevrolet#Impala
+Chevrolet#Malibu
+Chevrolet#Silverado 1500 Crew Cab
+Chevrolet#Silverado 1500 Double Cab
+Chevrolet#Silverado 1500 Extended Cab
+Chevrolet#Silverado 1500 Regular Cab
+Chevrolet#Silverado 2500 HD Crew Cab
+Chevrolet#Silverado 2500 HD Extended Cab
+Chevrolet#Silverado 2500 HD Regular Cab
+Chevrolet#Silverado 3500 HD Crew Cab
+Chevrolet#Silverado 3500 HD Extended Cab
+Chevrolet#Silverado 3500 HD Regular Cab
+Chevrolet#Sonic
+Chevrolet#Spark
+Chevrolet#Spark EV
+Chevrolet#Suburban 1500
+Chevrolet#Suburban 2500
+Chevrolet#Tahoe
+Chevrolet#Traverse
+Chevrolet#Volt
+Chrysler#200
+Chrysler#300
+Chrysler#Town & Country
+CODA#Sedan
+Dodge#Avenger
+Dodge#Caliber
+Dodge#Challenger
+Dodge#Charger
+Dodge#Dart
+Dodge#Durango
+Dodge#Grand Caravan Passenger
+Dodge#Journey
+Ferrari#458 Italia
+Ferrari#California
+Ferrari#FF
+FIAT#500
+FIAT#500e
+FIAT#500L
+Fisker#Karma
+Ford#C-MAX Energi
+Ford#C-MAX Hybrid
+Ford#E150 Cargo
+Ford#E150 Passenger
+Ford#E250 Cargo
+Ford#E350 Super Duty Cargo
+Ford#E350 Super Duty Passenger
+Ford#Edge
+Ford#Escape
+Ford#Expedition
+Ford#Expedition EL
+Ford#Explorer
+Ford#F150 Regular Cab
+Ford#F150 Super Cab
+Ford#F150 SuperCrew Cab
+Ford#F250 Super Duty Crew Cab
+Ford#F250 Super Duty Regular Cab
+Ford#F250 Super Duty Super Cab
+Ford#F350 Super Duty Crew Cab
+Ford#F350 Super Duty Regular Cab
+Ford#F350 Super Duty Super Cab
+Ford#F450 Super Duty Crew Cab
+Ford#Fiesta
+Ford#Flex
+Ford#Focus
+Ford#Focus ST
+Ford#Fusion
+Ford#Fusion Energi
+Ford#Mustang
+Ford#Taurus
+Ford#Transit Connect Cargo
+Ford#Transit Connect Passenger
+GMC#Acadia
+GMC#Canyon Crew Cab
+GMC#Canyon Extended Cab
+GMC#Canyon Regular Cab
+GMC#Savana 1500 Cargo
+GMC#Savana 1500 Passenger
+GMC#Savana 2500 Cargo
+GMC#Savana 2500 Passenger
+GMC#Savana 3500 Cargo
+GMC#Savana 3500 Passenger
+GMC#Sierra 1500 Crew Cab
+GMC#Sierra 1500 Extended Cab
+GMC#Sierra 1500 Regular Cab
+GMC#Sierra 2500 HD Crew Cab
+GMC#Sierra 2500 HD Extended Cab
+GMC#Sierra 2500 HD Regular Cab
+GMC#Sierra 3500 HD Crew Cab
+GMC#Sierra 3500 HD Extended Cab
+GMC#Sierra 3500 HD Regular Cab
+GMC#Terrain
+GMC#Yukon
+GMC#Yukon XL 1500
+GMC#Yukon XL 2500
+Honda#Accord
+Honda#Civic
+Honda#Crosstour
+Honda#CR-V
+Honda#CR-Z
+Honda#Fit
+Honda#Insight
+Honda#Odyssey
+Honda#Pilot
+Honda#Ridgeline
+Hyundai#Accent
+Hyundai#Azera
+Hyundai#Elantra
+Hyundai#Equus
+Hyundai#Genesis
+Hyundai#Genesis Coupe
+Hyundai#Santa Fe
+Hyundai#Santa Fe Sport
+Hyundai#Sonata
+Hyundai#Tucson
+Hyundai#Veloster
+Hyundai#Veracruz
+Infiniti#EX
+Infiniti#FX
+Infiniti#G
+Infiniti#JX
+Infiniti#M
+Infiniti#Q50
+Infiniti#QX
+Infiniti#QX60
+Infiniti#QX70
+Jeep#Cherokee
+Jeep#Compass
+Jeep#Grand Cherokee
+Jeep#Liberty
+Jeep#Patriot
+Jeep#Wrangler
+Kia#Cadenza
+Kia#Forte
+Kia#Optima
+Kia#Rio
+Kia#Sedona
+Kia#Sorento
+Kia#Soul
+Kia#Sportage
+Lamborghini#Aventador
+Lamborghini#Gallardo
+Lexus#CT
+Lexus#ES
+Lexus#GS
+Lexus#GX
+Lexus#HS
+Lexus#IS
+Lexus#LFA
+Lexus#LS
+Lexus#LX
+Lexus#RX
+Lincoln#MKS
+Lincoln#MKT
+Lincoln#MKX
+Lincoln#MKZ
+Lincoln#Navigator
+Lincoln#Navigator L
+Lotus#Evora
+Maserati#GranTurismo
+Maserati#Quattroporte
+Maybach#57
+Maybach#62
+Maybach#Landaulet
+Mazda#CX-5
+Mazda#CX-7
+Mazda#CX-9
+Mazda#MAZDA2
+Mazda#MAZDA3
+Mazda#MAZDA5
+Mazda#MAZDA6
+Mazda#Miata MX-5
+McLaren#MP4-12C
+Mercedes-Benz#C-Class
+Mercedes-Benz#CLA-Class
+Mercedes-Benz#CL-Class
+Mercedes-Benz#CLS-Class
+Mercedes-Benz#E-Class
+Mercedes-Benz#G-Class
+Mercedes-Benz#GL-Class
+Mercedes-Benz#GLK-Class
+Mercedes-Benz#M-Class
+Mercedes-Benz#R-Class
+Mercedes-Benz#S-Class
+Mercedes-Benz#SL-Class
+Mercedes-Benz#SLK-Class
+Mercedes-Benz#SLS-Class
+Mercedes-Benz#Sprinter 2500 Cargo
+Mercedes-Benz#Sprinter 2500 Crew
+Mercedes-Benz#Sprinter 2500 Passenger
+Mercedes-Benz#Sprinter 3500 Cargo
+MINI#Cooper Clubman
+MINI#Cooper Clubvan
+MINI#Cooper Convertible
+MINI#Cooper Countryman
+MINI#Cooper Coupe
+MINI#Cooper Hardtop
+MINI#Cooper Paceman
+MINI#Cooper Roadster
+Mitsubishi#Eclipse
+Mitsubishi#Galant
+Mitsubishi#i-MiEV
+Mitsubishi#Lancer
+Mitsubishi#Outlander
+Mitsubishi#Outlander Sport
+Nissan#370Z
+Nissan#Altima
+Nissan#Armada
+Nissan#cube
+Nissan#Frontier Crew Cab
+Nissan#Frontier King Cab
+Nissan#GT-R
+Nissan#JUKE
+Nissan#LEAF
+Nissan#Maxima
+Nissan#Murano
+Nissan#NV1500 Cargo
+Nissan#NV200
+Nissan#NV2500 HD Cargo
+Nissan#NV3500 HD Cargo
+Nissan#NV3500 HD Passenger
+Nissan#Pathfinder
+Nissan#Quest
+Nissan#Rogue
+Nissan#Sentra
+Nissan#Titan Crew Cab
+Nissan#Titan King Cab
+Nissan#Versa
+Nissan#Xterra
+Porsche#911
+Porsche#Boxster
+Porsche#Cayenne
+Porsche#Cayman
+Porsche#Panamera
+Ram#1500 Crew Cab
+Ram#1500 Quad Cab
+Ram#1500 Regular Cab
+Ram#2500 Crew Cab
+Ram#2500 Mega Cab
+Ram#2500 Regular Cab
+Ram#3500 Crew Cab
+Ram#3500 Mega Cab
+Ram#3500 Regular Cab
+Ram#C/V
+Ram#C/V Tradesman
+Ram#ProMaster 1500 Cargo
+Ram#ProMaster 2500 Cargo
+Ram#ProMaster 3500 Cargo
+Rolls-Royce#Ghost
+Rolls-Royce#Phantom
+Scion#FR-S
+Scion#iQ
+Scion#tC
+Scion#xB
+Scion#xD
+Smart#fortwo
+Smart#fortwo electric drive
+SRT#Viper
+Subaru#BRZ
+Subaru#Forester
+Subaru#Impreza
+Subaru#Legacy
+Subaru#Outback
+Subaru#Tribeca
+Subaru#XV Crosstrek
+Suzuki#Equator Crew Cab
+Suzuki#Equator Extended Cab
+Suzuki#Grand Vitara
+Suzuki#Kizashi
+Suzuki#SX4
+Tesla#Model S
+Toyota#4Runner
+Toyota#Avalon
+Toyota#Camry
+Toyota#Corolla
+Toyota#FJ Cruiser
+Toyota#Highlander
+Toyota#Land Cruiser
+Toyota#Matrix
+Toyota#Prius
+Toyota#Prius c
+Toyota#Prius Plug-in
+Toyota#Prius v
+Toyota#RAV4
+Toyota#Sequoia
+Toyota#Sienna
+Toyota#Tacoma Access Cab
+Toyota#Tacoma Double Cab
+Toyota#Tacoma Regular Cab
+Toyota#Tundra CrewMax
+Toyota#Tundra Double Cab
+Toyota#Tundra Regular Cab
+Toyota#Venza
+Toyota#Yaris
+Volkswagen#Beetle
+Volkswagen#CC
+Volkswagen#Eos
+Volkswagen#Golf
+Volkswagen#GTI
+Volkswagen#Jetta
+Volkswagen#Jetta SportWagen
+Volkswagen#Passat
+Volkswagen#Routan
+Volkswagen#Tiguan
+Volkswagen#Touareg
+Volvo#C30
+Volvo#C70
+Volvo#S60
+Volvo#S80
+Volvo#XC60
+Volvo#XC70
+Volvo#XC90
